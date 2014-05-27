@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">RockStarFree</string>
+    <string name="app_label">Rock Star</string>
+
+    <string name="settings_label">Settings</string>
+    <string name="about_label">About</string>
+    <string name="start_play">Start play</string>
+    <string name="help_label">Help</string>
+    <string name="menu">Menu</string>
+    <string name='about_text'>Application of "Rockstar" is committed to providing users a sense of the game on a real e-guitar. RokStar  feigns the neck of the guitar with a recorded sound from real electric guitar, the idea is of using the smartphone as a real guitars neck.</string>
+
+    <color name="gray">#ffcfcfcf</color>
+    <color name="dark_gray">#444444</color>
+
+</resources>
